@@ -59,7 +59,7 @@
       "head": [5, 1, 4, 2, 3, 0],
       "x": 3
     },
-    "output": [1, 2, 5, 4, 3, 0],
+    "output": [1, 2, 0, 5, 4, 3],
     "description": "Both partitions preserve the original ordering of their nodes."
   },
   {
