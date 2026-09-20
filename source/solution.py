@@ -8,6 +8,6 @@ class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
         # 🚦 Create the selected approach with the list and partition value.
         segregate: Segregate = Segregate(head=head, x=x)
-
+        
         # 🔗 Execute the approach and return the partitioned linked list.
         return segregate.partition()
